@@ -181,4 +181,4 @@ In practice, `git gc` is safe because it relies on the fact that reference updat
 - The repository contains at least 5 commits per phase (see `git log --oneline`).  
 - The lab report (this file) is placed at the root of the repository.
 
-**GitHub Repository URL:** [Replace with your public repo URL]
+**GitHub Repository URL:**https://github.com/pranav691/PES1UG24CS501-pes-vcs
